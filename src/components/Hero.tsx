@@ -57,10 +57,15 @@ export function Hero() {
         transition={{ delay: 0.35, duration: 0.7 }}
         className="font-[family-name:var(--font-orbitron)] text-4xl font-black leading-tight tracking-tight sm:text-6xl md:text-7xl lg:text-8xl"
       >
-        <span className="bg-gradient-to-r from-cyan-300 via-white to-fuchsia-400 bg-clip-text text-transparent">
-          INTER
+        <span className="hero-logo-shine relative inline-block">
+          <span className="bg-gradient-to-r from-cyan-300 via-white to-fuchsia-400 bg-clip-text text-transparent">
+            INTER
+          </span>
+          <span className="text-white">LOGIC</span>
+          <span className="hero-holo-text" aria-hidden="true">
+            INTERLOGIC
+          </span>
         </span>
-        <span className="text-white">LOGIC</span>
       </motion.h1>
 
       <motion.p
