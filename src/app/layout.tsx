@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "InterLogic — App Portfolio",
     description:
-      "Explore cutting-edge apps: FluxLocal, CopyQuill, Magnetly, UGC Studio, and more.",
+      "Explore cutting-edge apps: FluxLocal, CopyQuill, EventHog, RocketRewrite, and more.",
     type: "website",
   },
 };
