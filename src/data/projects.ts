@@ -60,7 +60,6 @@ export const projects: Project[] = [
     tech: ["Next.js", "React", "TypeScript"],
     website: "https://local-newsletter-launch-playbook.vercel.app/",
     accent: "#f472b6",
-    featured: true,
     year: 2025,
   },
   {
@@ -85,6 +84,7 @@ export const projects: Project[] = [
     tech: ["Next.js 15", "Supabase", "NextAuth"],
     website: "https://waitlist-chi-ten.vercel.app",
     accent: "#34d399",
+    featured: true,
     year: 2025,
   },
   {
@@ -97,6 +97,7 @@ export const projects: Project[] = [
     tech: ["Next.js", "Supabase", "Stripe", "Resend"],
     website: "https://caterjunction.com/",
     accent: "#f97316",
+    featured: true,
     year: 2025,
   },
   {
@@ -145,6 +146,7 @@ export const projects: Project[] = [
     tech: ["Next.js", "AI", "TypeScript"],
     website: "https://rocketrewrite.vercel.app/",
     accent: "#8b5cf6",
+    featured: true,
     year: 2026,
   },
   {
@@ -157,6 +159,7 @@ export const projects: Project[] = [
     tech: ["Next.js", "React", "TypeScript"],
     website: "https://www.qrhelix.com/",
     accent: "#06b6d4",
+    featured: true,
     year: 2026,
   },
   {
